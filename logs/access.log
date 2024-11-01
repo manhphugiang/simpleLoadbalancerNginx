@@ -169,3 +169,4 @@
 127.0.0.1 - - [01/Nov/2024:14:15:38 -0400] "GET /crops/ HTTP/1.1" 307 171 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
 127.0.0.1 - - [01/Nov/2024:14:17:35 -0400] "GET /number/4 HTTP/1.1" 200 265 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
 127.0.0.1 - - [01/Nov/2024:14:17:35 -0400] "GET /styles.css HTTP/1.1" 304 0 "http://localhost/number/4" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
+127.0.0.1 - - [01/Nov/2024:14:18:58 -0400] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0"
