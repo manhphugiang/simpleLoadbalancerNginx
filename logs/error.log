@@ -1,0 +1,170 @@
+2024/11/01 13:38:24 [error] 204824#209856: *1 CreateFile() "C:\Users\gmanh\setUp\nginx-1.26.2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 13:48:48 [notice] 118064#218360: signal process started
+2024/11/01 13:48:59 [crit] 209792#190992: *6 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:48:59 [crit] 209792#190992: *7 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:49:02 [crit] 209792#190992: *8 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:49:02 [crit] 209792#190992: *9 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:50:59 [notice] 212464#203404: signal process started
+2024/11/01 13:51:01 [crit] 208272#217796: *10 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:02 [crit] 208272#217796: *11 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:02 [crit] 208272#217796: *12 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:02 [crit] 208272#217796: *13 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:03 [crit] 208272#217796: *14 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:03 [crit] 208272#217796: *15 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:03 [crit] 208272#217796: *16 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:03 [crit] 208272#217796: *17 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:03 [crit] 208272#217796: *18 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:04 [crit] 208272#217796: *19 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:04 [crit] 208272#217796: *20 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:04 [crit] 208272#217796: *21 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:04 [crit] 208272#217796: *22 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:04 [crit] 208272#217796: *23 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:04 [crit] 208272#217796: *24 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:04 [crit] 208272#217796: *25 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:04 [crit] 208272#217796: *26 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:05 [crit] 208272#217796: *27 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:05 [crit] 208272#217796: *28 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:05 [crit] 208272#217796: *29 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:05 [crit] 208272#217796: *30 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:05 [crit] 208272#217796: *31 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:05 [crit] 208272#217796: *32 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:05 [crit] 208272#217796: *33 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:06 [crit] 208272#217796: *34 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:06 [crit] 208272#217796: *35 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:13 [notice] 213976#209352: signal process started
+2024/11/01 13:51:14 [crit] 208272#217796: *36 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2024/11/01 13:51:14 [crit] 208272#217796: *37 CreateFile() "C:\Users\gmanhSchool
+ginx\mySite/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2024/11/01 13:51:18 [crit] 214960#216524: *38 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:18 [crit] 214960#216524: *39 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:19 [crit] 214960#216524: *40 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:19 [crit] 214960#216524: *41 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:30 [crit] 214960#216524: *42 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:36 [notice] 214820#216412: signal process started
+2024/11/01 13:51:41 [crit] 214960#216524: *43 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:51 [crit] 218172#217820: *2 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:54 [crit] 218172#217820: *1 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:55 [crit] 218172#217820: *3 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:51:55 [crit] 218172#217820: *4 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:52:02 [crit] 218172#217820: *5 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:52:13 [crit] 218172#217820: *6 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:52:13 [crit] 218172#217820: *7 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:52:14 [crit] 218172#217820: *8 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:52:14 [crit] 218172#217820: *9 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:52:14 [crit] 218172#217820: *10 GetFileAttributesEx() "C:\Users\gmanhSchool
+ginx\mySite" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/11/01 13:52:46 [notice] 218448#217020: using inherited sockets from "C:\Users\gmanh\SetUp\nginx-1.26.2"
+2024/11/01 13:52:46 [emerg] 218448#217020: invalid socket number "C:\Users\gmanh\SetUp\nginx-1.26.2" in NGINX environment variable, ignoring the rest of the variable
+2024/11/01 13:52:46 [emerg] 218448#217020: invalid socket number "C:\Users\gmanh\SetUp\nginx-1.26.2" in NGINX environment variable, ignoring
+2024/11/01 13:52:46 [notice] 218448#217020: signal process started
+2024/11/01 13:53:36 [notice] 216380#214248: signal process started
+2024/11/01 13:56:03 [notice] 217184#212704: signal process started
+2024/11/01 13:58:19 [notice] 212384#214484: signal process started
+2024/11/01 13:58:26 [error] 211848#212552: *21 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 13:59:37 [emerg] 212080#218092: directive "include" is not terminated by ";" in C:\Users\gmanh\setUp\nginx-1.26.2/conf/nginx.conf:3
+2024/11/01 13:59:44 [notice] 219812#219840: signal process started
+2024/11/01 13:59:47 [error] 219820#114032: *22 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 13:59:49 [error] 219820#114032: *22 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 14:02:10 [error] 219820#114032: *25 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 14:02:11 [error] 219820#114032: *25 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 14:02:13 [notice] 207156#118064: signal process started
+2024/11/01 14:02:16 [error] 175808#209156: *28 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 14:02:16 [error] 175808#209156: *28 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 14:04:34 [notice] 202972#212944: signal process started
+2024/11/01 14:04:36 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:04:36 [error] 215660#217928: *30 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/fruits/"
+2024/11/01 14:04:57 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:04:59 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:05:00 [error] 215660#217928: *30 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/fruits/"
+2024/11/01 14:05:00 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:05:00 [error] 215660#217928: *30 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/fruits/"
+2024/11/01 14:05:08 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:05:08 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:05:08 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:05:09 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:05:21 [error] 215660#217928: *30 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/11/01 14:05:24 [error] 215660#217928: *30 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:07:32 [emerg] 213976#213540: unexpected "}" in C:\Users\gmanh\setUp\nginx-1.26.2/conf/nginx.conf:15
+2024/11/01 14:07:42 [notice] 220148#209156: signal process started
+2024/11/01 14:07:44 [error] 214780#202376: *33 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/carbs/"
+2024/11/01 14:07:48 [error] 214780#202376: *33 directory index of "C:/Users/gmanhSchool/nginx/mySite/vegetables/" is forbidden, client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost"
+2024/11/01 14:08:31 [emerg] 215704#214704: unexpected "}" in C:\Users\gmanh\setUp\nginx-1.26.2/conf/nginx.conf:16
+2024/11/01 14:08:36 [emerg] 212732#220036: invalid number of arguments in "try_files" directive in C:\Users\gmanh\setUp\nginx-1.26.2/conf/nginx.conf:15
+2024/11/01 14:08:44 [emerg] 219364#219992: invalid number of arguments in "try_files" directive in C:\Users\gmanh\setUp\nginx-1.26.2/conf/nginx.conf:15
+2024/11/01 14:08:59 [emerg] 219684#219156: unexpected "}" in C:\Users\gmanh\setUp\nginx-1.26.2/conf/nginx.conf:16
+2024/11/01 14:09:17 [notice] 215508#216640: signal process started
+2024/11/01 14:09:20 [error] 214616#218396: *36 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/vegetables/"
+2024/11/01 14:09:45 [error] 214616#218396: *36 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/vegetables/"
+2024/11/01 14:09:45 [error] 214616#218396: *36 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/vegetables/"
+2024/11/01 14:09:46 [error] 214616#218396: *36 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/vegetables/"
+2024/11/01 14:09:47 [error] 214616#218396: *36 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/vegetables/"
+2024/11/01 14:09:50 [error] 214616#218396: *37 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/vegetables/"
+2024/11/01 14:10:00 [error] 214616#218396: *37 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/index.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /vegetables/ HTTP/1.1", host: "localhost"
+2024/11/01 14:10:00 [error] 214616#218396: *37 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/vegetables/"
+2024/11/01 14:11:22 [emerg] 210908#216844: invalid location modifier "*" in C:\Users\gmanh\setUp\nginx-1.26.2/conf/nginx.conf:7
+2024/11/01 14:11:40 [emerg] 219976#211172: invalid location modifier "*" in C:\Users\gmanh\setUp\nginx-1.26.2/conf/nginx.conf:7
+2024/11/01 14:11:45 [notice] 208372#219720: signal process started
+2024/11/01 14:11:48 [error] 207448#156316: *39 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/vegetables/"
+2024/11/01 14:12:11 [error] 207448#156316: *39 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/count/5" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/5 HTTP/1.1", host: "localhost"
+2024/11/01 14:12:30 [error] 207448#156316: *39 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/count/5" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/5 HTTP/1.1", host: "localhost"
+2024/11/01 14:12:31 [error] 207448#156316: *39 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/count/5" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/5 HTTP/1.1", host: "localhost"
+2024/11/01 14:12:32 [error] 207448#156316: *39 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/count/5"
+2024/11/01 14:12:32 [error] 207448#156316: *39 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/count/5" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/5 HTTP/1.1", host: "localhost"
+2024/11/01 14:12:33 [error] 207448#156316: *39 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/count/5"
+2024/11/01 14:13:00 [notice] 219096#219364: signal process started
+2024/11/01 14:13:02 [error] 219396#217308: *43 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/count/5"
+2024/11/01 14:13:02 [error] 219396#217308: *43 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/count/5"
+2024/11/01 14:15:12 [notice] 217416#218024: signal process started
+2024/11/01 14:15:20 [error] 214992#214660: *45 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:15:29 [notice] 219744#219900: signal process started
+2024/11/01 14:15:31 [error] 214992#214660: *46 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:15:32 [error] 214992#214660: *47 "C:/Users/gmanhSchool/nginx/mySite/fruits/fruits/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /fruits/ HTTP/1.1", host: "localhost"
+2024/11/01 14:15:32 [error] 219232#216292: *48 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/fruits/"
+2024/11/01 14:15:33 [error] 219232#216292: *48 CreateFile() "C:/Users/gmanhSchool/nginx/mySite/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/fruits/"
+2024/11/01 14:17:23 [notice] 189952#218456: signal process started
